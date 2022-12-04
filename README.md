@@ -1,4 +1,5 @@
 This is a project that already exists in the solidity documentation release 0.8.18
+
 The original smart contract had 2 problems that i solved:
 1. Many transactions were needed to assign the rights to vote to all participants.
 2. If there was a tie the smart contract wasn't able to forward a tie message
